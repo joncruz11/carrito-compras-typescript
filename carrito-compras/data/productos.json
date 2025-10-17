@@ -1,0 +1,50 @@
+[
+  {
+    "id": 1,
+    "nombre": "Laptop Gaming ROG",
+    "descripcion": "Laptop de alto rendimiento para gaming",
+    "precio": 25999.99,
+    "imagen": "https://images.unsplash.com/photo-1603302576837-37561b2e2302?w=300",
+    "stock": 10
+  },
+  {
+    "id": 2,
+    "nombre": "Mouse Logitech G502",
+    "descripcion": "Mouse gaming con sensor HERO",
+    "precio": 899.99,
+    "imagen": "https://images.unsplash.com/photo-1527864550417-7fd91fc51a46?w=300",
+    "stock": 25
+  },
+  {
+    "id": 3,
+    "nombre": "Teclado Mecánico RGB",
+    "descripcion": "Teclado mecánico con switches Cherry MX",
+    "precio": 1499.99,
+    "imagen": "https://images.unsplash.com/photo-1587829741301-dc798b83add3?w=300",
+    "stock": 15
+  },
+  {
+    "id": 4,
+    "nombre": "Monitor 27\" 144Hz",
+    "descripcion": "Monitor gaming Full HD con 144Hz",
+    "precio": 4999.99,
+    "imagen": "https://images.unsplash.com/photo-1527443224154-c4a3942d3acf?w=300",
+    "stock": 8
+  },
+  {
+    "id": 5,
+    "nombre": "Audífonos HyperX Cloud",
+    "descripcion": "Audífonos gaming con sonido 7.1",
+    "precio": 1299.99,
+    "imagen": "https://images.unsplash.com/photo-1599669454699-248893623440?w=300",
+    "stock": 20
+  },
+  {
+    "id": 6,
+    "nombre": "Webcam Logitech C920",
+    "descripcion": "Webcam Full HD 1080p",
+    "precio": 1199.99,
+    "imagen": "https://images.unsplash.com/photo-1614624532983-4ce03382d63d?w=300",
+    "stock": 12
+  }
+]
